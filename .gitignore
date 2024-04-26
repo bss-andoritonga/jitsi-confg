@@ -1,2 +1,4 @@
 *.swp
 docker-compose.override.yml
+.vscode
+data
